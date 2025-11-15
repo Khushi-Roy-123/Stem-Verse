@@ -1,0 +1,21 @@
+{
+  "short_name": "Stem Verse",
+  "name": "Stem Verse - Empowering Women in STEM",
+  "icons": [
+    {
+      "src": "/logo192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#F0F9FF",
+  "description": "An application designed to empower and support women in STEM fields by providing mentorship, resources, and a community space."
+}

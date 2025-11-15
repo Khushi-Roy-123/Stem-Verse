@@ -1,0 +1,163 @@
+{
+    "paths": [
+        {
+            "id": "swe",
+            "name": "Software Developer",
+            "description": "Master the art of building scalable and efficient software, from front-end interfaces to back-end systems.",
+            "levels": [
+                {
+                    "level": 1,
+                    "title": "Foundations of Code",
+                    "quests": [
+                        {
+                            "id": "swe-1-1",
+                            "title": "Choose Your Language",
+                            "description": "Research and select a primary programming language to focus on (e.g., Python, JavaScript, Java).",
+                            "xp": 20,
+                            "resources": [
+                                { "title": "Choosing Your First Programming Language", "url": "https://www.freecodecamp.org/news/what-programming-language-should-i-learn-first-19a33b0a467d/" },
+                                { "title": "Python vs. JavaScript: What's the Difference?", "url": "https://www.coursera.org/articles/python-vs-javascript" }
+                            ]
+                        },
+                        {
+                            "id": "swe-1-2",
+                            "title": "Setup Your Development Environment",
+                            "description": "Install necessary tools like a code editor (VS Code), Git for version control, and your chosen language's runtime.",
+                            "xp": 30,
+                            "resources": [
+                                { "title": "Download VS Code", "url": "https://code.visualstudio.com/" },
+                                { "title": "Git for Beginners", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk" }
+                            ]
+                        },
+                        {
+                            "id": "swe-1-3",
+                            "title": "Write 'Hello, World!'",
+                            "description": "Create your first program that prints 'Hello, World!' to the console.",
+                            "xp": 50,
+                            "resources": [
+                                { "title": "Hello World in Different Languages", "url": "https://helloworld.with.is/" }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "level": 2,
+                    "title": "Data Structures & Algorithms",
+                    "quests": [
+                        {
+                            "id": "swe-2-1",
+                            "title": "Understand Arrays and Lists",
+                            "description": "Learn about the fundamental data structure of arrays and how to manipulate them.",
+                            "xp": 50,
+                            "resources": [
+                                { "title": "Data Structures: Arrays", "url": "https://www.geeksforgeeks.org/array-data-structure/" }
+                            ]
+                        },
+                         {
+                            "id": "swe-2-2",
+                            "title": "Solve a Basic Algorithm Problem",
+                            "description": "Try solving a simple problem on a platform like LeetCode or HackerRank (e.g., 'Two Sum').",
+                            "xp": 100,
+                            "resources": [
+                                { "title": "LeetCode - Two Sum", "url": "https://leetcode.com/problems/two-sum/" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ds",
+            "name": "Data Scientist",
+            "description": "Learn to extract meaningful insights from data using statistical analysis, machine learning, and visualization.",
+            "levels": [
+                {
+                    "level": 1,
+                    "title": "Data Foundations",
+                    "quests": [
+                         {
+                            "id": "ds-1-1",
+                            "title": "Learn Python for Data Science",
+                            "description": "Focus on key libraries like NumPy for numerical data and Pandas for data manipulation.",
+                            "xp": 50,
+                            "resources": [
+                                { "title": "Intro to Pandas", "url": "https://www.kaggle.com/learn/pandas" }
+                            ]
+                        },
+                        {
+                            "id": "ds-1-2",
+                            "title": "Understand Basic Statistics",
+                            "description": "Grasp core concepts like mean, median, mode, and standard deviation.",
+                            "xp": 50,
+                            "resources": [
+                                { "title": "Statistics Basics by Khan Academy", "url": "https://www.khanacademy.org/math/statistics-probability" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "aiml",
+            "name": "AI/ML Engineer",
+            "description": "Build intelligent systems that can learn, adapt, and make predictions by mastering algorithms and neural networks.",
+            "levels": [
+                {
+                    "level": 1,
+                    "title": "AI Fundamentals",
+                    "quests": [
+                        {
+                            "id": "aiml-1-1",
+                            "title": "What is Machine Learning?",
+                            "description": "Complete a basic introductory course on the fundamentals of machine learning.",
+                            "xp": 50,
+                            "resources": [
+                                { "title": "Machine Learning for Everyone", "url": "https://www.youtube.com/watch?v=i_LwzRVP7bg" }
+                            ]
+                        },
+                        {
+                            "id": "aiml-1-2",
+                            "title": "Explore a Machine Learning Framework",
+                            "description": "Set up TensorFlow or PyTorch and run a simple tutorial.",
+                            "xp": 50,
+                            "resources": [
+                                { "title": "TensorFlow Quickstart for Beginners", "url": "https://www.tensorflow.org/tutorials/quickstart/beginner" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "cyber",
+            "name": "Cybersecurity Expert",
+            "description": "Become a digital defender by learning to protect computer systems and networks from security threats.",
+            "levels": [
+                 {
+                    "level": 1,
+                    "title": "Security Principles",
+                    "quests": [
+                        {
+                            "id": "cyber-1-1",
+                            "title": "Learn the CIA Triad",
+                            "description": "Understand the core security principles: Confidentiality, Integrity, and Availability.",
+                            "xp": 50,
+                            "resources": [
+                                { "title": "The CIA Triad Explained", "url": "https://www.comptia.org/blog/the-cia-triad" }
+                            ]
+                        },
+                        {
+                            "id": "cyber-1-2",
+                            "title": "Try a Capture The Flag (CTF) Challenge",
+                            "description": "Attempt a beginner-level challenge on a platform like PicoCTF to get a feel for security puzzles.",
+                            "xp": 50,
+                            "resources": [
+                                { "title": "PicoCTF for Beginners", "url": "https://picoctf.org/" }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

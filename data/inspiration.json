@@ -1,0 +1,273 @@
+
+[
+  {
+    "id": "mae-jemison",
+    "name": "Dr. Mae Jemison",
+    "field": "Aerospace Engineering, Medicine",
+    "photoUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+    "bio": "Dr. Mae Jemison is an American engineer, physician, and former NASA astronaut. In 1992, she became the first African American woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour. A true polymath, she is also a trained dancer and holds nine honorary doctorates. After leaving NASA, she founded a technology research company and has been a strong advocate for science education, particularly for minority students.",
+    "majorAchievements": [
+      "First African American woman in space",
+      "Served in the Peace Corps as a medical officer",
+      "Founded The Jemison Group, a technology consulting firm"
+    ],
+    "awards": [
+      "National Women's Hall of Fame (1993)",
+      "International Space Hall of Fame (2004)",
+      "Buzz Aldrin Space Pioneer Award (2017)"
+    ],
+    "quote": "Never be limited by other people's limited imaginations.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Mae_Jemison"
+    },
+    "category": "Modern Innovators",
+    "videoUrl": "https://www.youtube.com/embed/B0vYHe_Dchg"
+  },
+  {
+    "id": "grace-hopper",
+    "name": "Grace Hopper",
+    "field": "Computer Science",
+    "photoUrl": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "bio": "Grace Hopper, known as 'Amazing Grace', was an American computer scientist and United States Navy rear admiral. A pioneer of computer programming, she was one of the first programmers of the Harvard Mark I computer. She invented the first compiler for a computer programming language and conceptualized machine-independent programming languages, which led to COBOL. Her work laid the foundation for modern computing.",
+    "majorAchievements": [
+      "Developed the first compiler (A-0 System)",
+      "Co-developed the COBOL programming language",
+      "Popularized the term 'debugging' for fixing computer problems"
+    ],
+    "awards": [
+      "National Medal of Technology (1991)",
+      "Presidential Medal of Freedom (posthumously, 2016)",
+      "IEEE Emanuel R. Piore Award (1983)"
+    ],
+    "quote": "The most dangerous phrase in the language is, 'We've always done it this way.'",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Grace_Hopper"
+    },
+    "category": "Historical Pioneers"
+  },
+  {
+    "id": "katherine-johnson",
+    "name": "Katherine Johnson",
+    "field": "Mathematics",
+    "photoUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=461&q=80",
+    "bio": "Katherine Johnson was an American mathematician whose calculations of orbital mechanics as a NASA employee were critical to the success of the first and subsequent U.S. crewed spaceflights. Her work was instrumental in projects like Project Mercury and the Apollo Moon landing. Johnson's mastery of complex manual calculations was legendary, and she was known for her accuracy and leadership in a time when 'human computers' were essential to space exploration.",
+    "majorAchievements": [
+      "Calculated the trajectory for the first American in space (Alan Shepard, 1961)",
+      "Verified the calculations for John Glenn's orbit around Earth",
+      "Co-authored one of the first reports on the technical specifications for orbital spaceflight"
+    ],
+    "awards": [
+      "Presidential Medal of Freedom (2015)",
+      "Congressional Gold Medal (2019)",
+      "NASA Group Achievement Award"
+    ],
+    "quote": "I liked to count. I count everything. I count the steps to the road, the steps up to church, the number of dishes and silverware I washed... anything that could be counted, I did.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Johnson"
+    },
+    "category": "Historical Pioneers",
+    "videoUrl": "https://www.youtube.com/embed/rks-1n5s_f4"
+  },
+  {
+    "id": "fei-fei-li",
+    "name": "Dr. Fei-Fei Li",
+    "field": "Artificial Intelligence",
+    "photoUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286de2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "bio": "Dr. Fei-Fei Li is a leading AI scientist known for her work in computer vision. She is the creator of the ImageNet project, a large-scale database of over 14 million annotated images designed to aid in visual object recognition research. ImageNet has been a catalyst for the deep learning revolution, transforming the field of artificial intelligence. She is a strong advocate for human-centered AI and diversity in the field.",
+    "majorAchievements": [
+      "Created and led the ImageNet project",
+      "Co-founded AI4ALL, a non-profit to increase diversity in AI",
+      "Former Chief Scientist of AI/ML at Google Cloud"
+    ],
+    "awards": [
+      "National Academy of Engineering Member (2020)",
+      "Technical Leadership Abie Award (2019)",
+      "IEEE PAMI Longuet-Higgins Prize (2019)"
+    ],
+    "quote": "If we want machines to think, we need to teach them to see.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Fei-Fei_Li",
+      "twitter": "https://twitter.com/drfeifei",
+      "website": "https://profiles.stanford.edu/fei-fei-li"
+    },
+    "category": "Modern Innovators"
+  },
+  {
+    "id": "marie-curie",
+    "name": "Marie Curie",
+    "field": "Physics & Chemistry",
+    "photoUrl": "https://images.unsplash.com/photo-1614035035293-b68923a85223?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+    "bio": "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the first person and only woman to win the Nobel Prize in two different scientific fields, and the first woman to become a professor at the University of Paris. Her work not only changed our understanding of the atom but also led to new medical treatments.",
+    "majorAchievements": [
+      "Discovered two new elements: polonium and radium",
+      "Developed mobile radiography units to provide X-ray services to field hospitals during WWI",
+      "Coined the term 'radioactivity'"
+    ],
+    "awards": [
+      "Nobel Prize in Physics (1903)",
+      "Davy Medal (1903)",
+      "Nobel Prize in Chemistry (1911)"
+    ],
+    "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Marie_Curie"
+    },
+    "category": "Nobel Laureates"
+  },
+  {
+    "id": "jennifer-doudna",
+    "name": "Jennifer Doudna",
+    "field": "Biochemistry",
+    "photoUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=388&q=80",
+    "bio": "Jennifer Doudna is an American biochemist who has done pioneering work in CRISPR gene editing, for which she shared the 2020 Nobel Prize in Chemistry with Emmanuelle Charpentier. The CRISPR-Cas9 genetic scissors have revolutionized life sciences, allowing scientists to change the DNA of animals, plants, and microorganisms with extremely high precision. This technology has the potential to cure genetic diseases and transform medicine.",
+    "majorAchievements": [
+      "Co-developed the CRISPR-Cas9 gene editing technology",
+      "Founded the Innovative Genomics Institute at UC Berkeley",
+      "Author of 'A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution'"
+    ],
+    "awards": [
+      "Breakthrough Prize in Life Sciences (2015)",
+      "Wolf Prize in Medicine (2020)",
+      "Nobel Prize in Chemistry (2020)"
+    ],
+    "quote": "The power to control our species' genetic future is awesome and terrifying. Deciding how to handle it may be the biggest challenge we have ever faced.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Jennifer_Doudna",
+      "website": "https://doudnalab.org/"
+    },
+    "category": "Nobel Laureates",
+    "videoUrl": "https://www.youtube.com/embed/TdBAHexVYzc"
+  },
+  {
+    "id": "reshma-saujani",
+    "name": "Reshma Saujani",
+    "field": "Technology & Activism",
+    "photoUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "bio": "Reshma Saujani is an American lawyer, politician, and the founder of the tech organization Girls Who Code. Girls Who Code is a non-profit organization which aims to support and increase the number of women in computer science by equipping young women with the necessary computing skills to pursue 21st century opportunities. Her viral TED talk, 'Teach girls bravery, not perfection,' has over five million views and has sparked a national conversation about how we're raising our girls.",
+    "majorAchievements": [
+      "Founded the non-profit 'Girls Who Code'",
+      "Authored the bestselling book 'Brave, Not Perfect'",
+      "First Indian American woman to run for U.S. Congress"
+    ],
+    "awards": [
+      "Forbes' Most Powerful Women Changing the World (2015)",
+      "Harold W. McGraw Prize in Education (2018)",
+      "Fortune World's Greatest Leaders (2016)"
+    ],
+    "quote": "I'm not going to be the next Steve Jobs. I'm going to be the first Reshma Saujani.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Reshma_Saujani",
+      "website": "https://reshmasaujani.com/",
+      "twitter": "https://twitter.com/reshmasaujani"
+    },
+    "category": "Modern Innovators"
+  },
+  {
+    "id": "ada-lovelace",
+    "name": "Ada Lovelace",
+    "field": "Mathematics & Computing",
+    "photoUrl": "https://images.unsplash.com/photo-1608848461950-0fe51dfc41cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "bio": "Augusta Ada King, Countess of Lovelace, was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognize that the machine had applications beyond pure calculation, and published the first algorithm intended to be carried out by such a machine. As a result, she is often regarded as the first computer programmer.",
+    "majorAchievements": [
+      "Wrote the world's first computer program",
+      "Conceptualized that computers could go beyond simple calculation",
+      "Translated and annotated an article by Italian military engineer Luigi Menabrea"
+    ],
+    "awards": [],
+    "quote": "The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+    },
+    "category": "Historical Pioneers"
+  },
+  {
+    "id": "hedy-lamarr",
+    "name": "Hedy Lamarr",
+    "field": "Invention & Engineering",
+    "photoUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80",
+    "bio": "Hedy Lamarr was an Austrian-American actress and inventor. During her film career, she was known as one of the great beauties of her era. However, her inventive work was equally remarkable. During World War II, she and co-inventor George Antheil developed a radio guidance system for Allied torpedoes that used spread spectrum and frequency hopping technology. This invention is now a foundational principle behind modern Wi-Fi, GPS, and Bluetooth technology.",
+    "majorAchievements": [
+      "Co-invented frequency-hopping spread spectrum technology",
+      "Starred in numerous classic Hollywood films",
+      "First woman to receive the BULBIE Gnass Spirit of Achievement Award"
+    ],
+    "awards": [
+      "EFF Pioneer Award (1997)",
+      "National Inventors Hall of Fame (posthumously, 2014)"
+    ],
+    "quote": "All creative people want to do the unexpected.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
+    },
+    "category": "Historical Pioneers"
+  },
+  {
+    "id": "timnit-gebru",
+    "name": "Dr. Timnit Gebru",
+    "field": "AI Ethics",
+    "photoUrl": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=386&q=80",
+    "bio": "Dr. Timnit Gebru is a computer scientist who works on algorithmic bias and data mining. She is a leading voice in the field of AI ethics, advocating for accountability and transparency in artificial intelligence. She is the founder of the Distributed Artificial Intelligence Research Institute (DAIR), which is focused on independent, community-rooted AI research. Her research has uncovered significant biases in facial recognition technologies, sparking global conversations about the societal impact of AI.",
+    "majorAchievements": [
+      "Co-authored a paper exposing bias in commercial facial recognition systems",
+      "Founder of the Distributed AI Research Institute (DAIR)",
+      "Co-founder of Black in AI, a community for Black AI researchers"
+    ],
+    "awards": [
+      "MIT Technology Review 35 Innovators Under 35 (2018)",
+      "Fortune's World's 50 Greatest Leaders (2021)"
+    ],
+    "quote": "We have to be more rigorous in the way that we think about the societal impact of our work. Technology is not neutral.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Timnit_Gebru",
+      "website": "https://www.dair-institute.org/",
+      "twitter": "https://twitter.com/timnitGebru"
+    },
+    "category": "Modern Innovators"
+  },
+  {
+    "id": "gitanjali-rao",
+    "name": "Gitanjali Rao",
+    "field": "Invention & Science",
+    "photoUrl": "https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "bio": "Gitanjali Rao is an American inventor, scientist, and author. She was named TIME magazine's first-ever 'Kid of the Year' in 2020 for her impressive work using technology to tackle issues ranging from contaminated drinking water to opioid addiction and cyberbullying. She developed Tethys, a low-cost, portable device to detect lead in drinking water, and Kindly, an app and Chrome Extension that uses AI to detect cyberbullying at an early stage. She is a powerful advocate for using science and technology for social change.",
+    "majorAchievements": [
+      "Named TIME's first-ever 'Kid of the Year' (2020)",
+      "Invented Tethys, a lead-detection device for water",
+      "Developed Kindly, an anti-cyberbullying service"
+    ],
+    "awards": [
+      "Discovery Education 3M Young Scientist Challenge (2017)",
+      "Forbes 30 Under 30 in Science (2019)"
+    ],
+    "quote": "My goal has really shifted not only from creating my own devices to solve the world's problems, but inspiring others to do the same as well.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Gitanjali_Rao",
+      "website": "https://gitanjalirao.net/"
+    },
+    "category": "Rising Stars",
+    "videoUrl": "https://www.youtube.com/embed/fGCzje_5w0w"
+  },
+  {
+    "id": "kizzmekia-corbett",
+    "name": "Dr. Kizzmekia Corbett",
+    "field": "Immunology & Virology",
+    "photoUrl": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+    "bio": "Dr. Kizzmekia 'Kizzy' Corbett is an American viral immunologist who was a lead scientist at the NIH's Vaccine Research Center. Her team was central to the development of the Moderna COVID-19 vaccine. Her work on mRNA vaccine technology was not just critical during the pandemic, but represents a groundbreaking platform for future vaccine development against other infectious diseases. She is now an Assistant Professor at the Harvard T.H. Chan School of Public Health.",
+    "majorAchievements": [
+      "Key scientist in the development of the Moderna COVID-19 vaccine",
+      "Designed and led studies on novel coronavirus vaccines",
+      "Advocates for vaccine education and public health"
+    ],
+    "awards": [
+      "TIME magazine's 'Heroes of the Year' (2021)",
+      "Federal Employee of the Year (2021)",
+      "Benjamin Franklin Next Gen Award"
+    ],
+    "quote": "To be a part of a legacy of people who have used their scientific intellect to change the world is a dream.",
+    "links": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Kizzmekia_Corbett",
+      "twitter": "https://twitter.com/kizzyphd"
+    },
+    "category": "Modern Innovators"
+  }
+]

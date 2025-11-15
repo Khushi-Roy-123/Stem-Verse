@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Society of Women Engineers (SWE) Scholarship",
+    "organization": "Society of Women Engineers",
+    "category": "Scholarship",
+    "field": "Engineering",
+    "eligibility": "Women in accredited engineering or computer science programs (undergraduate or graduate).",
+    "deadline": "Varies (Feb-May)",
+    "description": "Provides financial assistance to women studying engineering, technology, and computer science.",
+    "link": "https://swe.org/scholarships/"
+  },
+  {
+    "title": "Google Women Techmakers Scholars Program",
+    "organization": "Google",
+    "category": "Scholarship",
+    "field": "Computer Science",
+    "eligibility": "Female undergraduate or graduate students in CS, CE, or a related technical field.",
+    "deadline": "Typically December",
+    "description": "Scholarships, a professional retreat, and access to a global community network for women in tech.",
+    "link": "https://buildyourfuture.withgoogle.com/scholarships/women-techmakers-scholars-program"
+  },
+  {
+    "title": "Software Engineering Internship",
+    "organization": "Microsoft",
+    "category": "Internship",
+    "field": "Computer Science",
+    "eligibility": "Currently enrolled in a Bachelor's, Master's, or PhD degree program in computer science or related field.",
+    "deadline": "Rolling",
+    "description": "A 12-week paid internship to work on real projects that ship to millions of users.",
+    "link": "https://careers.microsoft.com/v2/global/en/us-student-careers.html"
+  },
+  {
+    "title": "Grace Hopper Celebration",
+    "organization": "AnitaB.org",
+    "category": "Conference",
+    "field": "All STEM",
+    "eligibility": "Open to all, with scholarships available for students and faculty.",
+    "deadline": "Scholarship applications typically open in January.",
+    "description": "The world's largest gathering of women technologists, offering networking, mentorship, and career opportunities.",
+    "link": "https://ghc.anitab.org/"
+  },
+  {
+    "title": "Ada Lovelace Fellowship",
+    "organization": "Microsoft Research",
+    "category": "Grant",
+    "field": "Computer Science",
+    "eligibility": "Second-year PhD students from underrepresented groups (including women) in computing.",
+    "deadline": "Typically October",
+    "description": "A three-year fellowship for PhD students that includes tuition coverage and a research stipend.",
+    "link": "https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/"
+  },
+  {
+    "title": "NCWIT Award for Aspirations in Computing",
+    "organization": "NCWIT",
+    "category": "Scholarship",
+    "field": "Computer Science",
+    "eligibility": "U.S. high school students who self-identify as women, genderqueer, or non-binary.",
+    "deadline": "Typically November",
+    "description": "Recognizes high school women for their computing aspirations and accomplishments with awards, scholarships, and internship opportunities.",
+    "link": "https://www.aspirations.org/"
+  },
+  {
+    "title": "Data Science Internship",
+    "organization": "Apple",
+    "category": "Internship",
+    "field": "Data Science",
+    "eligibility": "Students pursuing a degree in a quantitative field like Computer Science, Statistics, or Applied Math.",
+    "deadline": "Rolling",
+    "description": "Work with Apple's data science teams on challenging problems that impact products and services.",
+    "link": "https://www.apple.com/careers/us/students.html"
+  },
+  {
+    "title": "Palantir Women in Technology Scholarship",
+    "organization": "Palantir",
+    "category": "Scholarship",
+    "field": "All STEM",
+    "eligibility": "Female students enrolled full-time in an undergraduate or graduate program, majoring in a STEM field.",
+    "deadline": "Typically April",
+    "description": "A scholarship and mentorship program designed to support and encourage women in STEM.",
+    "link": "https://www.palantir.com/students/scholarships/women-in-technology/"
+  },
+  {
+    "title": "Break Through Tech AI Program",
+    "organization": "Break Through Tech",
+    "category": "Grant",
+    "field": "Data Science",
+    "eligibility": "Undergraduate women and underrepresented genders in tech.",
+    "deadline": "Varies by university",
+    "description": "A program that provides skills training, portfolio projects, and industry connections to help students launch careers in AI/ML.",
+    "link": "https://breakthroughtech.org/ai/"
+  },
+  {
+    "title": "Cybersecurity Internship",
+    "organization": "NSA (National Security Agency)",
+    "category": "Internship",
+    "field": "Computer Science",
+    "eligibility": "U.S. citizen students pursuing degrees in cybersecurity, computer science, or related fields.",
+    "deadline": "Typically October",
+    "description": "Gain real-world experience in cybersecurity and intelligence through various paid internship programs.",
+    "link": "https://www.intelligencecareers.gov/nsa/nsastudents.html"
+  },
+  {
+    "title": "Women Who Code Conference Grant",
+    "organization": "Women Who Code",
+    "category": "Grant",
+    "field": "All STEM",
+    "eligibility": "Active members of the Women Who Code community.",
+    "deadline": "Rolling",
+    "description": "Grants to help cover the cost of attending technical conferences, promoting professional development.",
+    "link": "https://www.womenwhocode.com/scholarships"
+  },
+  {
+    "title": "Rewriting the Code Fellowship",
+    "organization": "Rewriting the Code",
+    "category": "Internship",
+    "field": "Computer Science",
+    "eligibility": "Undergraduate and graduate women in tech.",
+    "deadline": "Varies",
+    "description": "A year-long program offering mentorship, skill-building workshops, and access to a community of peers and partner companies for internships.",
+    "link": "https://rewritingthecode.org/fellowship-program/"
+  },
+  {
+    "title": "BHW Women in STEM Scholarship",
+    "organization": "The BHW Group",
+    "category": "Scholarship",
+    "field": "All STEM",
+    "eligibility": "Women who are pursuing an undergraduate or master's degree and are majoring in a STEM field.",
+    "deadline": "April 15th, 2025",
+    "description": "An annual scholarship awarded to a woman who demonstrates a passion for technology and is pursuing a degree in a STEM field.",
+    "link": "https://thebhwgroup.com/scholarship"
+  },
+  {
+    "title": "Open Source Promotion Plan",
+    "organization": "ISCAS & Google",
+    "category": "Internship",
+    "field": "Computer Science",
+    "eligibility": "Students interested in contributing to open-source software.",
+    "deadline": "Varies",
+    "description": "A global program that offers students stipends to write code for open-source projects during the summer.",
+    "link": "https://summerofcode.withgoogle.com/"
+  },
+  {
+    "title": "IEEE Women in Engineering International Leadership Conference (WIE ILC)",
+    "organization": "IEEE",
+    "category": "Conference",
+    "field": "Engineering",
+    "eligibility": "Open to all, with a focus on mid-to-senior level women in tech.",
+    "deadline": "Registration opens March 2025",
+    "description": "A conference providing professional development opportunities for women in engineering and technology.",
+    "link": "https://ieee-wie-ilc.org/"
+  },
+  {
+    "title": "Amazon Future Engineer Scholarship",
+    "organization": "Amazon",
+    "category": "Scholarship",
+    "field": "Computer Science",
+    "eligibility": "High school seniors from underserved communities planning to study computer science.",
+    "deadline": "Typically January",
+    "description": "A $40,000 scholarship and a guaranteed paid internship at Amazon after their freshman year of college.",
+    "link": "https://www.amazonfutureengineer.com/scholarships"
+  }
+]
