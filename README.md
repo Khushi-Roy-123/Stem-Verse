@@ -102,7 +102,7 @@ python -m http.server
 ---
 <div align="center">
 ⭐ If you found this project helpful, don’t forget to give it a star!
-</div> ```
+</div>
 
 
 
